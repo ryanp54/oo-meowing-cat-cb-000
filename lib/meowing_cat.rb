@@ -1,4 +1,4 @@
-## code your solution 
+## code your solution
 class Cat
   attr_accessor :name
 
